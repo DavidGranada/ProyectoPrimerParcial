@@ -1,8 +1,21 @@
 /*
-UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE.
-NOMBRE: Ivan Conejo
-FECHA: 22/11/2017.
-TEMA: EXAMEN. 
+=======================================================
+UNIVERSIDAD DE LAS FUERZAS ARMADAS - "ESPE"
+=======================================================
+Departamento Ciencias De La Computación
+=======================================================
+Tema:			EXAMEN
+Carrera:		Ingeniería en Sistemas
+Docente:		Ing. Fernando Solis
+Integrantes:	Granada David
+Conejo Ivan
+Francisco Sampedro
+=======================================================
+Fecha Creación:		22/11/2017
+Fecha Modificación:	22/11/2017
+=======================================================
+MENU PILAS - COLAS - CON CLASES
+=======================================================
 */
 
 #include <iostream>
